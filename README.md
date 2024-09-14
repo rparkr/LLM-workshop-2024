@@ -1,3 +1,15 @@
+# Notes from Ryan
+This repository holds the Jupyter notebooks are other files from Sebastian Raschka's workshop: "Pretraining and Finetuning LLMs from the Ground Up". All files besides those in the `notebooks/` folder come directly from Sebastian Raschka.
+
+As I completed the workshop, I consolidated the notebooks and modified them, adjusting examples, adding different sampling methods (`temperature`, `top_k`, `top_p`), and testing different models. The modified notebooks are in the [notebooks](./notebooks/) directory. Most of the notebook content remains the same (images, instruction, and most of the code blocks), but I added and adjusted parts based on my interests and experimentation.
+
+**Recommendation: use [Lightning AI Studios](https://lightning.ai/) for this workshop**  
+I used [Lightning AI Studios](https://lightning.ai/) for this tutorial and I highly recommend it! The platform is user friendly and robust, and comes with a limited amount of free GPU credits. Lightning Studios uses VS Code, which is familiar and much more feature-rich compared to Google Colab. It was easy to set up the environment and switch between CPU and GPU when needed. Lightning Studios is very polished and is a joy to use.
+
+---
+
+# Original README:
+
 # Pretraining and Finetuning LLMs from the Ground Up
 
 <div align="center">
